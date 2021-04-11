@@ -11,5 +11,5 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm from Hangzhou, China
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZonaHu)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZonaHu&theme=cobalt)]
 
