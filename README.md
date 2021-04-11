@@ -1,5 +1,5 @@
 ### Hi, I'm Zona! 👋
-[Blog](https://zonahu.tech/)🏠 
+[Blog](https://zonahu.tech/)🏠  ｜
 [Linkedin](https://www.linkedin.com/in/zonahu/)💻
 
 
