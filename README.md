@@ -1,7 +1,5 @@
 ### Hi, I'm Zona! 👋
-[Blog](https://zonahu.tech/)🏠   
-｜
-[Linkedin](https://www.linkedin.com/in/zonahu/)💻
+[Blog](https://zonahu.tech/)🏠 ｜ [Linkedin](https://www.linkedin.com/in/zonahu/)💻
 
 
 - 🔭 I’m currently in 2A Software Engineering, University of Waterloo
@@ -11,5 +9,5 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm from Hangzhou, China
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZonaHu&theme=cobalt)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZonaHu&show_icons=true&theme=cobalt)
 
