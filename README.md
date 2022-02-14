@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently in 3A Software Engineering, University of Waterloo
-- 🤔 I'm looking for Co-op opportunities for Summer 2022 
+- 🤔 I'm looking for Co-op opportunities for Winter(Jan-April) 2023 
 - 📫 Feel free to reach me by: zuomiao.hu@uwaterloo.ca
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm from Hangzhou, China
