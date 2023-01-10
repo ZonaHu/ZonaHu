@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently in 4B Computer Science, University of Waterloo
-- 🤔 I'm looking for Co-op opportunities for Winter(Jan-April) 2023 
+- 🤔 I'm looking for Co-op opportunities for Fall(August-December) 2023 
 - ☕ Coffee Chat: [https://www.buymeacoffee.com/zuomiaohu](https://www.buymeacoffee.com/zuomiaohu)
 - 📫 Feel free to reach me by: zuomiao.hu@uwaterloo.ca
 - 😄 Pronouns: She/Her
