@@ -1,5 +1,5 @@
 ### Hi, I'm Zona! 👋
-[Blog](https://zonahu.tech/)🏠 ｜ [Linkedin](https://www.linkedin.com/in/zonahu/)💻
+[Blog](https://zonahu.github.io)🏠 ｜ [Linkedin](https://www.linkedin.com/in/zonahu/)💻
 
 
 - 🌱 I graduated from Computer Science, University of Waterloo
